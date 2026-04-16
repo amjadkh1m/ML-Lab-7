@@ -1,12 +1,14 @@
-Project Title:
+
+
+###  Project Title:
 
 Logistic Regression on Advertising Dataset
 
-Description:
+###  Description:
 
 This project uses Logistic Regression to predict whether a user will click on an advertisement based on features such as age, income, and internet usage.
 
-Dataset:
+###  Dataset:
 
 The dataset contains user information including:
 
@@ -17,7 +19,7 @@ The dataset contains user information including:
 * Gender (Male)
 * Target variable: Clicked on Ad
 
- Steps:
+###  Steps:
 
 1. Loaded the dataset using pandas
 2. Explored the data using info() and describe()
@@ -28,11 +30,11 @@ The dataset contains user information including:
 7. Made predictions on test data
 8. Evaluated the model using confusion matrix, classification report, and accuracy
 
-Results:
+###  Results:
 
 The model achieved an accuracy of approximately 96.7%, which indicates very strong performance in predicting user behavior.
 
-Tools Used:
+###  Tools Used:
 
 * Python
 * Pandas
